@@ -1,0 +1,20 @@
+body{
+    background-color: azure;
+}
+h1{
+    text-transform: uppercase;
+    color:olive;
+    width:40%;
+}
+.poster{
+    text-align: center;
+    width:50%;
+    margin-top: 100px;
+    margin-left: 25px;
+    border-width: 1opx;
+    font-family: 'Times New Roman', Times, serif;
+}
+.motivation-img{
+    color:10px solid white;
+    width:50%;
+}
